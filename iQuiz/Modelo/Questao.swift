@@ -2,7 +2,7 @@
 //  Questao.swift
 //  iQuiz
 //
-//  Created by Giovanna Moeller on 14/02/23.
+//  Created by Anderson Santos on 14/03/2026.
 //
 
 import Foundation
