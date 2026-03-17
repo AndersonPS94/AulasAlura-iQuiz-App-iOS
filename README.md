@@ -103,7 +103,7 @@ O código está organizado de forma a facilitar a manutenção e escalabilidade:
 
 **Anderson Pereira Santos**
 *   GitHub: [@AndersonPS94](https://github.com/AndersonPS94)
-*   LinkedIn: [Anderson Pereira Santos](https://www.linkedin.com/in/anderson-pereira-santos/)
+*   LinkedIn: [Anderson Pereira Santos](https://www.linkedin.com/in/andersonps94)
 
 ---
 *Projeto desenvolvido para fins de estudo e portfólio.*
