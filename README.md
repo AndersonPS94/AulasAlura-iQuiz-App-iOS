@@ -1,4 +1,4 @@
-# iQuiz - Meu Primeiro Aplicativo iOS 📱
+# iQuiz 📱
 
 Este repositório contém o projeto **iQuiz**, um aplicativo de perguntas e respostas desenvolvido como parte do curso prático da **Alura**: *"iOS: construindo seu primeiro aplicativo"*.
 
